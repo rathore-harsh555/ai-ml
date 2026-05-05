@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "red-freedom-495403-e6",
+  "private_key_id": "c78aac37587e8f44e311cde93d39643c9e8f7fcc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCswySDVq8nua+G\nIEeyZPPVyVqXRTtJIt6U7pDU8pQIptcdku8W+CGKa/hO2++xJ7DHpYF1wh7mQnzN\nQHN/w3z9ug4yDcq/17SEHwv2R/hHhRz8vNgpHXP0HCRUmqr3t2e+QD4JhyWo9Tya\njHHB2TJNXUUIOxLKcLsxvxm/LdhDvrrmkwxFyoTqY0URZ7Wgc+VSdJP0hVKnvvRg\nUpuetQd7YkC3xvIjafxU+gfiC6L4mJFLRoyBKCTppaJbkWUSyokLWhu6Xi4Ie3q4\nnLfbyLLDKtu17tayvHBI4e9Wmo7HbrzDyeu5mK+Tm6tZxNuIDfxYv9l4zWFeI7nJ\niryZfv0zAgMBAAECggEATh+gr1PPuSMa4IhQY7eLHC4FrUo9WQFPrgGDtQhNMOxh\ncpozTCvA3xucGe0TIwVTx7RsKpgx6OZAEYEHucrpBsPQD4p1GPOuSeDQQ/qfp5fm\nV9P92/nZqZXgR/H5RjPF0h6y7xQST6k2Up0YBBT3zkxTHzm3cZwwynokZnOQzHEA\nwAMFPmVTI0txxEVnzmGBZQ79kyRzTUDHEIwxbqZUJgu812qQXz/5MGmUHW2MKN6w\nFNm3Z/7ZDOMvP57NGa6ELCC0gp9CB1ijtYJTfMe2do38iIlCFCMv7Og0QlwL9X53\np8o10/lK8o6tNdiTC86vt5TZYV/mTUI1aahUR8cxQQKBgQDjl6uH/fcswJclzNdO\ntNZ8T+d7Bqj3ZCWQwqUueNYJP2hNwlFx2ItcIXnfKoySyPDGi8JvkC3bLOOIYlHq\ndWu11Mb+Fw02sWy5eprcpL6v0z/OJGgcmHugwLmgD07nbOfmcnrtOw1LwTU37rhH\nhJ8SIBU54ar+rQ5qWSDKZk0PSQKBgQDCU3ef6Q9rBgw1PueT1y7YCi8XdaKHaFPv\nitpLBR4HAeT8OemrMOrsNqfSIvmbhArzHAhGQFwqm5XxLWeWmR+udgFvxnVPUq5T\nqE7UsTlSCwDl6jUOgJ8apfmnVLMD1mlI6LOqlPEw7V8pik3Fa5gj55EUq3mHpymI\n+GXRThTcmwKBgCRjJWuSsSgYipHilDHjO7+YTtwejnkvK8pfNGWfsCi+WIDGJptb\nEbzjJUcG2H7HXaeAxM9tb8dw/9fYUFx59YSWxlHtgZFTAJ0O+x93v30A+1yL+ZFI\n18s1xPfQOr9JbDIt73VqUY/hDg8pPZFBpOUS+BHPALXDGWDraxCxFnTxAoGBAL23\n3Y9aazoSknKdcluM9ufmsWkW6NGIEoJILqyVV2aB+/wf0jjXLlPlXFy01rp05HfK\nw21KwnC6q13l9T87SYn7HZXxzG/gCeAU7rmKOKsXoQ3WZWw+OJc8uYsbDxbNCscq\noNYGSZ9577FPnHQEgmlzV9o1OxYsJknaMRVyRL3HAoGBAJh+iOqygXX7jKb+QAN+\n0YacXDBeINC6lF54mAQGb9On4Dy1J5NagBU8ty9eIXPxxSZTyYlQndnNVU/nm6Em\n0KfC4LN03Qaw330amHZGSjjXC8Plx/5ngfs4eJQDQcT2B7k437XuVhXYFYNs2+CV\n/eNf2IRhRGyA2TzReWldoago\n-----END PRIVATE KEY-----\n",
+  "client_email": "aiml-334@red-freedom-495403-e6.iam.gserviceaccount.com",
+  "client_id": "111730634130552220821",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aiml-334%40red-freedom-495403-e6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
